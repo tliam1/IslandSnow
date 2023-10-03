@@ -1,0 +1,12 @@
+footer{
+  background-color: #292929;
+  color: white;
+  padding: 25px 0 25px 0;
+}
+
+.leftFloat{
+  float: left;
+}
+.rightFloat{
+  float: right;
+}
